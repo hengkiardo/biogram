@@ -87,6 +87,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* White Button */
+.button.button-white {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #212121;
+}
+.button.button-white:hover,
+.button.button-white:focus {
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
